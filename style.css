@@ -1,0 +1,17 @@
+/*
+Theme Name: Fish Rankin
+Theme URI: https://them.es/starter-fse
+Author: Rankin
+Author URI: https://example.com
+Description: A portfolio theme
+Version: 1.1.5
+Requires at least: 5.9
+Tested up to: 6.2
+Requires PHP: 7.2
+License: GPL version 2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0
+Text Domain: fish-rankin-theme
+Tags: full-site-editing, one-column, flexible-header, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, rtl-language-support, sticky-post, threaded-comments, translation-ready
+*/
+
+/* Don't overwrite this file. Compile "/assets/main.scss" to "/assets/dist/main.css" */
